@@ -50,9 +50,6 @@ Ao final deve se exibir uma mensagem:
 // ================================
 // CLASSE HEROI (Requisito principal)
 // ================================
-// ================================
-// CLASSE HEROI (Requisito principal)
-// ================================
 // VARIÁVEL + ARRAY
 let herois = [];
 
